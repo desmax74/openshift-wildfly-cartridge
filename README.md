@@ -1,3 +1,5 @@
+Install cartridge with rhc app create wildfly  https://raw.githubusercontent.com/desmax74/openshift-wildfly-custom-cartridge/master/manifest.yml
+
 # OpenShift WildFly Cartridge
 
 These instructions will get you up and running with **WildFly 8.2.0.Final**. To run WildFly 9.0.0.CR1 instead, take a look at the documentation [here](https://github.com/openshift-cartridges/openshift-wildfly-cartridge/tree/wildfly-9). Alternatively, to run WildFly 10.0.0.Alpha2, take a look at the documentation [here](https://github.com/openshift-cartridges/openshift-wildfly-cartridge/tree/wildfly-10).

@@ -2,6 +2,7 @@
 snapshot_exclusions:
 - ~/wildfly/versions/8
 - ~/wildfly/modules
+- ~/wildfly/usr/lib/jvm
 locked_files:
 - bin/
 - bin/*
